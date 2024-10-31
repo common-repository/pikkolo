@@ -1,0 +1,174 @@
+# Copyright (C) 2023 Pikkoló ehf.
+# This file is distributed under the same license as the Pikkoló plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Pikkoló 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/pikkolo\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-08-18T09:32:55+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: pikkolois\n"
+
+#. Plugin Name of the plugin
+msgid "Pikkoló"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://pikkolo.is/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Shipping method"
+msgstr ""
+
+#. Author of the plugin
+msgid "Pikkoló ehf."
+msgstr ""
+
+#: pikkolo.php:85
+msgid "Connect to Pikkoló"
+msgstr ""
+
+#: pikkolo.php:87
+msgid "Enter your API key and vendor ID to connect to Pikkoló"
+msgstr ""
+
+#: pikkolo.php:90
+msgid "Enable/Disable"
+msgstr ""
+
+#: pikkolo.php:95
+msgid "Enable"
+msgstr ""
+
+#: pikkolo.php:102
+msgid "API Key"
+msgstr ""
+
+#: pikkolo.php:107
+msgid "The API key from api.pikkolo.is"
+msgstr ""
+
+#: pikkolo.php:118
+msgid "API Key (test)"
+msgstr ""
+
+#: pikkolo.php:123
+msgid "The API key from api-staging.pikkolo.is"
+msgstr ""
+
+#: pikkolo.php:134
+msgid "Vendor ID"
+msgstr ""
+
+#: pikkolo.php:139
+msgid "The vendor ID from api.pikkolo.is"
+msgstr ""
+
+#: pikkolo.php:150
+msgid "Vendor ID (test)"
+msgstr ""
+
+#: pikkolo.php:155
+msgid "The vendor ID from api-staging.pikkolo.is"
+msgstr ""
+
+#: pikkolo.php:166
+msgid "Delivery rate"
+msgstr ""
+
+#: pikkolo.php:168
+msgid "Enter the delivery rate for Pikkoló"
+msgstr ""
+
+#: pikkolo.php:171
+msgid "Base rate (ISK)"
+msgstr ""
+
+#: pikkolo.php:176
+msgid "The base rate displayed to the customer"
+msgstr ""
+
+#: pikkolo.php:187
+msgid "Minimum for free delivery (ISK)"
+msgstr ""
+
+#: pikkolo.php:192
+msgid "The minimum order amount for free delivery. Leave blank for no minimum"
+msgstr ""
+
+#: pikkolo.php:203
+msgid "Debugging & Testing"
+msgstr ""
+
+#: pikkolo.php:205
+msgid "Options related to debugging and testing the Pikkoló gateway."
+msgstr ""
+
+#: pikkolo.php:208
+msgid "Debug mode"
+msgstr ""
+
+#: pikkolo.php:213
+msgid "Enable debugging"
+msgstr ""
+
+#: pikkolo.php:219
+msgid "See debugging logs %s."
+msgstr ""
+
+#: pikkolo.php:223
+msgid "here"
+msgstr ""
+
+#: pikkolo.php:227
+msgid "Test mode (Staging)"
+msgstr ""
+
+#: pikkolo.php:232
+msgid "Enable test mode"
+msgstr ""
+
+#: pikkolo.php:236
+msgid "Do requests against test environment"
+msgstr ""
+
+#: pikkolo.php:525
+msgid ""
+"<span data-tooltip=\"bla\" data-flow=\"top\">\n"
+"\t\t\t\t\t<img src=\""
+msgstr ""
+
+#: pikkolo.php:558
+msgid "Choose a Pikkolo station for delivery"
+msgstr ""
+
+#: pikkolo.php:559
+#: pikkolo.php:605
+msgid "Choose a station"
+msgstr ""
+
+#: pikkolo.php:603
+msgid "No station chosen"
+msgstr ""
+
+#: pikkolo.php:604
+msgid "Loading stations"
+msgstr ""
+
+#: pikkolo.php:606
+msgid "No station available"
+msgstr ""
+
+#: pikkolo.php:607
+msgid "See on map"
+msgstr ""
+
+#: pikkolo.php:641
+msgid "Please select a location for Pikkoló"
+msgstr ""
